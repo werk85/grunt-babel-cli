@@ -1,6 +1,6 @@
 {
   "name": "grunt-babel-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Grunt CLI wrapper for writing Gruntfiles in es6 syntax.",
   "main": "index.js",
   "scripts": {
